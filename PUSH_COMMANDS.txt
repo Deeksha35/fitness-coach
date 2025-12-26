@@ -1,0 +1,21 @@
+#!/bin/bash
+# Auto-push script for fitness-coach repository
+# 
+# INSTRUCTIONS:
+# 1. Create a repository on GitHub: https://github.com/new
+#    - Name it: fitness-coach
+#    - Make it PUBLIC
+#    - Do NOT initialize with README
+# 
+# 2. Copy your GitHub USERNAME
+# 
+# 3. Run this command (replace USERNAME with your GitHub username):
+
+# PowerShell version:
+# cd c:\contact\fitness-coach
+# git remote add origin https://github.com/USERNAME/fitness-coach.git
+# git branch -M main
+# git push -u origin main
+
+# Or use this one-liner:
+# cd c:\contact\fitness-coach; git remote add origin https://github.com/USERNAME/fitness-coach.git; git branch -M main; git push -u origin main
